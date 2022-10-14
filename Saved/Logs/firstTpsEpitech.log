@@ -1517,3 +1517,17 @@ Make sure 'BP_MyCharacter_C' has been compiled for  Get hasMainKey
 [2022.10.14-20.15.21:039][775]LogSavePackage: Moving '../../../../../../EPITECH/UE5/others/UE5EpiProject/Saved/grid_Auto4D1A8F3074782D500AA9ECF8C4D62354A.tmp' to '../../../../../../EPITECH/UE5/others/UE5EpiProject/Saved/Autosaves/Game/Blueprints/grid_Auto4.uasset'
 [2022.10.14-20.15.21:039][775]LogFileHelpers: Auto-saving content packages took 0.116
 [2022.10.14-20.16.55:840][591]LogSlate: Took 0.091611 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.14-20.22.36:908][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.14-20.22.59:835][808]LogSlate: Window 'Save Content' being destroyed
+[2022.10.14-20.22.59:965][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/grid" FILE="../../../../../../EPITECH/UE5/others/UE5EpiProject/Content/Blueprints/grid.uasset" SILENT=true
+[2022.10.14-20.22.59:982][808]LogSavePackage: Moving output files for package: /Game/Blueprints/grid
+[2022.10.14-20.22.59:982][808]LogSavePackage: Moving '../../../../../../EPITECH/UE5/others/UE5EpiProject/Saved/grid9BE0BC85493D3FA812BA62ADF8F8D7E0.tmp' to '../../../../../../EPITECH/UE5/others/UE5EpiProject/Content/Blueprints/grid.uasset'
+[2022.10.14-20.22.59:984][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/level1" FILE="../../../../../../EPITECH/UE5/others/UE5EpiProject/Content/levels/level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.14-20.23.00:033][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.14-20.23.00:181][808]LogSavePackage: Moving output files for package: /Game/levels/level1
+[2022.10.14-20.23.00:181][808]LogSavePackage: Moving '../../../../../../EPITECH/UE5/others/UE5EpiProject/Saved/level1EA84054A44B5B32869422D808CF481A7.tmp' to '../../../../../../EPITECH/UE5/others/UE5EpiProject/Content/levels/level1.umap'
+[2022.10.14-20.23.00:194][808]LogFileHelpers: Saving map 'level1' took 0.211
+[2022.10.14-20.23.05:329][808]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.14-20.23.05:418][808]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.14-20.23.05:418][808]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/grid.grid
+[2022.10.14-20.23.05:418][808]LogContentValidation: Display: Validating World /Game/levels/level1.level1
